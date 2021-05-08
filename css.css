@@ -1,0 +1,64 @@
+.title{
+	color: blue;
+}
+
+.inp_css {
+	width: 250px;
+	height: 20px;
+	background: white;
+	box-shadow: none;
+	outline: none;
+	border-radius: 3px;
+	border-color: #32a1ce;
+}
+
+.btn_css_1{
+	height: 25px;
+	border: none;
+	background: #32a1ce;
+	color: white;
+	box-shadow: none;
+	outline: none;
+	border-radius: 3px;
+}
+
+.btn_css_2{
+	height: 25px;
+	border: none;
+	background: #32a1ce;
+	color: white;
+	box-shadow: none;
+	outline: none;
+	border-radius: 3px;
+}
+
+.output_css{
+	display: flex;
+    border: thick double #32a1ce;
+    border-radius: 5px;
+    margin-top: 7px;
+	width: 423px;
+	height: 230px;
+}
+
+.user{
+	display: flex;
+	color: black;
+	border-spacing: 3px;
+	border-color: black;
+	height: 228px;
+	width: 210px;
+}
+
+.serv{
+	display: flex;
+	color: blue;
+	border-spacing: 3px;
+	border-color: black;
+	height: 228px;
+	width: 210px;
+}
+
+.alert{
+	color: red;
+}
